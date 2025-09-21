@@ -1,15 +1,8 @@
----
+
 
 # ☕ Coffee Shop Sales Analysis Dashboard
 
-[![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![KPI](https://img.shields.io/badge/KPIs-Monitoring-blue)]()
-[![Charts](https://img.shields.io/badge/Charts-Visualizations-orange)]()
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
-A **data-driven Excel dashboard** analyzing coffee shop sales, customer footfall, and product preferences to help managers make informed decisions about staffing, inventory, and marketing strategies.
-
----
 
 ## 📌 Table of Contents
 

@@ -13,8 +13,7 @@
 * [Visualizations](#-visualizations)
 * [Tools & Tech](#-tools--tech)
 * [How to Use](#-how-to-use)
-* [Dashboard Preview](#-dashboard-preview)
-* [Author](#-author)
+
 
 ---
 
@@ -98,10 +97,5 @@ The project uses a **coffee shop transactional dataset**. It contains the follow
 
 ---
 
-## 🎥 Dashboard Preview
 
-
-<img width="1761" height="851" alt="Screenshot 2025-09-20 231757" src="https://github.com/user-attachments/assets/d8a62e04-e1c6-4f51-887a-8d39ff91ac85" />
-
----
 

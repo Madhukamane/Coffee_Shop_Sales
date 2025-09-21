@@ -1,6 +1,11 @@
+---
 
 # ☕ Coffee Shop Sales Analysis Dashboard
 
+[![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![KPI](https://img.shields.io/badge/KPIs-Monitoring-blue)]()
+[![Charts](https://img.shields.io/badge/Charts-Visualizations-orange)]()
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 A **data-driven Excel dashboard** analyzing coffee shop sales, customer footfall, and product preferences to help managers make informed decisions about staffing, inventory, and marketing strategies.
 
@@ -9,6 +14,7 @@ A **data-driven Excel dashboard** analyzing coffee shop sales, customer footfall
 ## 📌 Table of Contents
 
 * [Problem Statement](#-problem-statement)
+* [Dataset](#-dataset)
 * [Features](#-features)
 * [Key Metrics](#-key-metrics)
 * [Visualizations](#-visualizations)
@@ -29,6 +35,25 @@ This project addresses these challenges by analyzing sales data to identify:
 * Sales performance across different store locations
 
 The insights help **improve operational efficiency, enhance customer experience, and boost revenue**.
+
+---
+
+## 🗂 Dataset
+
+The project uses a **coffee shop transactional dataset**. It contains the following columns:
+
+| Column Name      | Description                            |
+| ---------------- | -------------------------------------- |
+| `transaction_id` | Unique ID for each transaction         |
+| `Date`           | Date of transaction                    |
+| `Time`           | Time of the order                      |
+| `Product`        | Product name                           |
+| `Category`       | Product category (Coffee, Tea, Bakery) |
+| `Size`           | Product size (Small, Regular, Large)   |
+| `Price`          | Transaction amount                     |
+| `Store Location` | Coffee shop branch location            |
+
+📥 **Download Dataset:** [Coffee\_Shop\_Sales\_Data.csv](./Coffee_Shop_Sales_Data.csv)
 
 ---
 
@@ -73,13 +98,17 @@ The insights help **improve operational efficiency, enhance customer experience,
 
 ## 🚀 How to Use
 
-1. Download the dataset from this repository.
+1. Download the dataset from this repository: [Coffee\_Shop\_Sales\_Data.csv](./Coffee_Shop_Sales_Data.csv)
 2. Open **`Coffee_Shop_Sales_Analysis.xlsx`** in Excel.
 3. Use slicers to filter by **Month, Day, or Product Category**.
 4. Explore charts to analyze trends and KPIs.
 
+---
+
+## 🎥 Dashboard Preview
 
 
+<img width="1761" height="851" alt="Screenshot 2025-09-20 231757" src="https://github.com/user-attachments/assets/d8a62e04-e1c6-4f51-887a-8d39ff91ac85" />
 
+---
 
-Do you want me to do that next?

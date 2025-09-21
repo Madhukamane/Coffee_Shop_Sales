@@ -1,8 +1,3 @@
-# Coffee_Shop_Sales
-
-Perfect! Here’s a **professional, GitHub-ready README** with **clickable sections, badges, and a GIF/visual preview section**. It’s visually appealing and highlights your project strengths:
-
----
 
 # ☕ Coffee Shop Sales Analysis Dashboard
 
